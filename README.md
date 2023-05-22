@@ -8,4 +8,7 @@ So far i've created:
 - Rock Paper Scissors
 - Password Generator
 
+Big Projects:
+- Hangman Game
+
 Gotta go to work now, see yall next time.
