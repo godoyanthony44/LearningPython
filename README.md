@@ -8,6 +8,7 @@ So far i've created:
 - Rock Paper Scissors
 - Password Generator
 - Ceaser Cypher
+- Silent Auction
 
 Big Projects:
 - Hangman Game
