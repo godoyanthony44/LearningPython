@@ -7,6 +7,7 @@ So far i've created:
 - Treasure Game
 - Rock Paper Scissors
 - Password Generator
+- Ceaser Cypher
 
 Big Projects:
 - Hangman Game
