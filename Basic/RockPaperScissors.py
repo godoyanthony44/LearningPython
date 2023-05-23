@@ -1,5 +1,5 @@
 import random
-import hands
+from Basic import hands
 
 npc_value = random.randint(1,3)
 person_value = int(input("1 for Rock, 2 for Paper, 3 for Scissors\n"))
