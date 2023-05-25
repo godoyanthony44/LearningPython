@@ -12,6 +12,8 @@ So far i've created:
 - Ceaser Cypher
 - Silent Auction
 - Calculator program
+- number guessing game 
+
 
 Big Projects:
 - Hangman Game
