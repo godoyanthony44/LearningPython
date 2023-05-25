@@ -9,6 +9,7 @@ So far i've created:
 - Password Generator
 - Ceaser Cypher
 - Silent Auction
+- Calculator program
 
 Big Projects:
 - Hangman Game
