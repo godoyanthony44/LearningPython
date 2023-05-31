@@ -14,7 +14,8 @@ So far i've created:
 - Calculator program
 - number guessing game 
 - Turtle Art Maker
-- 
+- Turtle Etch a sketch
+- Turtle Race
 
 
 Big Projects:
