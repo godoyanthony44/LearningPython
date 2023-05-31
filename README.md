@@ -13,10 +13,13 @@ So far i've created:
 - Silent Auction
 - Calculator program
 - number guessing game 
+- Turtle Art Maker
+- 
 
 
 Big Projects:
 - Hangman Game
 - BlackJack Game
+- Quiz Game using API
 
 Gotta go to work now, see yall next time.
