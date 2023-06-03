@@ -25,6 +25,13 @@ class Snake:
             self.snake_segments.append(snake)
         self.head = self.snake_segments[0]
 
+    def create_segment(self):
+        snake = Turtle("square")
+        snake.color("white")
+        snake.penup()
+        snake.goto((self.snake_segments[len(self.snake_segments)-1].xcor()-20),(self.snake_segments[len(self.snake_segments)-1].ycor()-20))
+        self.snake_segments.append(snake)
+
     # Have the snake move with the Move function
     def move(self):
         for seg in range((len(self.snake_segments) - 1), 0, -1):
