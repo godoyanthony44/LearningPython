@@ -56,3 +56,10 @@ class Snake:
     def right(self):
         if self.head.heading() != LEFT:
             self.head.setheading(RIGHT)
+
+    def resets(self):
+        for snakes in self.snake_segments:
+            snakes.color("black")
+        self.snake_segments.clear()
+        self.create_snake()
+        self.head = self.snake_segments[0]
